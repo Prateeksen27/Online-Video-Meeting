@@ -15,10 +15,9 @@ const CreateMeeting = () => {
       }}
     >
       <Typography variant="h3" component="h1">
-        Video calls and meetings for everyone
+        Welcome to Our Online Consultation website
       </Typography>
       <Typography variant="h6" component="h2">
-        Connect, collaborate and celebrate from anywhere with ZEGOCLOUD
       </Typography>
       <div style={{ display: "flex", gap: "10px", marginTop: "5%" }}>
         <TextField
